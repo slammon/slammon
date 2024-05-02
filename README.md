@@ -1,7 +1,7 @@
 <style>
-h1 {text-align: center;}
-p {text-align: center;}
-div {text-align: center;}
+  h1 {text-align: center;}
+  p {text-align: center;}
+  div {text-align: center;}
 </style>
 
 <p align="center"><h1>This be what i know</h1></p>
