@@ -4,3 +4,6 @@
     <img src="https://skillicons.dev/icons?i=git,rust,python,tensorflow,cpp,bash,debian,discord,flask,github,ai,linux,md,replit,ubuntu,vercel,vscode,windows,bots,sklearn&perline=10" />
   </a>
 </p>
+<sub style="text-align: center;">Birds Aren't Real</sub>
+<sub style="text-align: center;">9/11 was an inside job</sub>
+<sub style="text-align: center;">the dow jones is controled by the deep state via blood sacrifices</sub>
