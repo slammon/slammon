@@ -1,1 +1,237 @@
-yp
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My personal hell</title>
+    <style>
+        body {
+            background-color: #FF0000; /* Bright red background */
+            font-family: "Comic Sans MS", cursive, sans-serif;
+            color: #FFFFFF; /* Bright white text */
+            text-align: center;
+            background-image: url('https://placekitten.com/200/300');
+            background-repeat: repeat;
+        }
+        .noise {
+            background: url(https://www.transparenttextures.com/patterns/noise.png);
+        }
+        .overlay {
+            background: repeating-linear-gradient(45deg, #FF0000, #FF0000 10px, #FFFF00 10px, #FFFF00 20px); /* Bright colors */
+            animation: rotateOverlay 2s linear infinite;
+        }
+        @keyframes rotateOverlay {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
+        }
+        .blinking {
+            animation: blinkingText 0.8s infinite;
+        }
+        @keyframes blinkingText {
+            0% { color: #FFFF00; } /* Bright yellow */
+            49% { color: #FFFF00; }
+            60% { color: transparent; }
+            99% { color: transparent; }
+            100% { color: #FFFF00; }
+        }
+        marquee {
+            font-size: 30px;
+            color: #00FFFF; /* Bright cyan */
+            background-color: #800080; /* Purple */
+        }
+        h1 {
+            text-decoration: underline overline;
+            text-shadow: 2px 2px #FF0000; /* Red shadow */
+        }
+        p {
+            background-color: #FFFF00; /* Bright yellow */
+            border: 5px dashed #0000FF; /* Blue border */
+            padding: 20px;
+            transform: rotate(10deg);
+        }
+        /* New styles for more displeasing elements */
+        .flashing {
+            animation: flashingText 1s infinite;
+        }
+        @keyframes flashingText {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0; }
+        }
+        .unusualFont {
+            font-family: "Impact", sans-serif;
+        }
+        /* Additional styles for more displeasing elements */
+        .moving {
+            animation: movingText 2s infinite;
+        }
+        @keyframes movingText {
+            0% { transform: translateX(0); }
+            50% { transform: translateX(100px); }
+            100% { transform: translateX(0); }
+        }
+        .zooming {
+            animation: zoomingText 2s infinite;
+        }
+        @keyframes zoomingText {
+            0% { transform: scale(1); }
+            50% { transform: scale(1.5); }
+            100% { transform: scale(1); }
+        }
+        .contrasting {
+            color: #000000; /* Black text */
+            background-color: #FFFFFF; /* White background */
+        }
+        .fire {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            height: 50px; /* Adjust the height as needed */
+            background: #FF0000; /* Red background */
+            animation: flicker 1s infinite;
+        }
+        @keyframes flicker {
+            0% { background-color: #FF0000; }
+            50% { background-color: #FF4500; }
+            100% { background-color: #FF0000; }
+        }
+        .fake-ad {
+            position: fixed;
+            bottom: 0;
+            right: 0;
+            width: 300px; /* Adjust the width as needed */
+            height: 250px; /* Adjust the height as needed */
+            border: none; /* Remove the border */
+        }
+        .conflicting-animation {
+            position: absolute;
+            width: 100px;
+            height: 100px;
+            background-color: #FF0000;
+            animation: conflictingAnimation 5s infinite;
+        }
+        @keyframes conflictingAnimation {
+            0% { transform: translate(0, 0); }
+            25% { transform: translate(200px, 0); }
+            50% { transform: translate(200px, 200px); }
+            75% { transform: translate(0, 200px); }
+            100% { transform: translate(0, 0); }
+        }
+
+        /* New styles for popup simulation */
+        .popup-simulation {
+            position: fixed;
+            width: 200px;
+            height: 100px;
+            background-color: #00FFFF;
+            border: 2px solid #FF0000;
+        }
+    </style>
+</head>
+<body>
+    <div class="conflicting-animation"></div>
+    <div class="conflicting-animation" style="animation-duration: 3s;"></div>
+    <div class="conflicting-animation" style="animation-duration: 7s;"></div>
+
+    <!-- Popup simulation -->
+    <div id="popup1" class="popup-simulation"></div>
+    <div id="popup2" class="popup-simulation"></div>
+    <div id="popup3" class="popup-simulation"></div>
+
+    <script>
+        // Function to move popups randomly
+        function movePopup(popup) {
+            const x = Math.random() * window.innerWidth;
+            const y = Math.random() * window.innerHeight;
+            popup.style.left = `${x}px`;
+            popup.style.top = `${y}px`;
+        }
+
+        // Move popups initially and then every 2 seconds
+        const popups = document.querySelectorAll('.popup-simulation');
+        popups.forEach(popup => {
+            movePopup(popup);
+            setInterval(() => movePopup(popup), 2000);
+        });
+    </script>
+    <div class="noise"></div>
+    <div class="overlay"></div>
+    <marquee behavior="alternate" class="flashing">add me on discord my usn slammon</marquee>
+    <marquee behavior="alternate" direction="right" class="flashing">im autistic</marquee>
+    <h1 class="blinking unusualFont">Hi call me Airiy or slammon idk</h1>
+    <h2 class="blinking unusualFont">I wanna watch the world burn ♡</h2>
+    <marquee direction="down" scrollamount="30" class="flashing">ted kaczynisky made a good point</marquee>
+    <p class="flashing">this is normal person hell and adhd heaven</p>
+    <p class="flashing">a squared plus b squared equals c squared</p>
+    <marquee direction="up" scrollamount="30" class="flashing">he who increases wisdom increases sorrow</marquee>
+    <marquee direction="left" class="flashing">CRIMINAL HISTORY BETA
+        - Malicious Intent
+        - Minor Terrorism
+        - Drug Trafficking
+        - Vehicular Manslaughter</marquee>
+    <audio autoplay loop>
+        <source src="https://www.example.com/example.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+    <!-- Additional elements for more displeasing visuals -->
+    <h2 class="moving zooming contrasting">GRINCHMAXXING TO AN EXTREME ♡</h2>
+    <p class="moving zooming contrasting">HARDCORE GRINCHMAXXING</p>
+    <div class="fire"></div>
+    <iframe src="https://f-brain.glitch.me" class="fake-ad"></iframe>
+    <iframe
+        src="https://f-brain.glitch.me/embed"
+        style="border: none; width: 100%; height: 200px; overflow: hidden"
+        frameborder="0"
+    ></iframe>
+    <style>
+        .cursor-trail {
+            position: absolute;
+            pointer-events: none;
+            z-index: 9999;
+            font-size: 20px; /* Adjust size as needed */
+            opacity: 0.8;
+        }
+    </style>
+    
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            let cursorX = 0;
+            let cursorY = 0;
+            const cursorTrail = [];
+            const maxTrailLength = 20; // Maximum number of trail elements
+    
+            document.addEventListener('mousemove', (e) => {
+                cursorX = e.clientX;
+                cursorY = e.clientY;
+    
+                const trailElement = document.createElement('span');
+                trailElement.classList.add('cursor-trail');
+                trailElement.style.left = `${cursorX}px`;
+                trailElement.style.top = `${cursorY}px`;
+                trailElement.textContent = '🐭'; // Emoji for the cursor trail
+                document.body.appendChild(trailElement);
+    
+                cursorTrail.push(trailElement);
+    
+                if (cursorTrail.length > maxTrailLength) {
+                    document.body.removeChild(cursorTrail.shift());
+                }
+            });
+        });
+    </script>
+    <script>
+        const backgrounds = [
+            'url("https://example.com/background1.jpg")',
+            'url("https://example.com/background2.jpg")',
+            '#FF0000', // Example of a solid color
+            '#00FF00' // Another example of a solid color
+        ];
+    
+        function changeBackground() {
+            const randomBackground = backgrounds[Math.floor(Math.random() * backgrounds.length)];
+            document.body.style.background = randomBackground;
+        }
+    
+        // Change background every 5 seconds
+        setInterval(changeBackground, 5000);
+    </script>
+</body>
+</html>
