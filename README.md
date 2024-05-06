@@ -1,10 +1,17 @@
-<h1 style="text-align: center;">This </h1>be <h2 style="text-align: center;">what i </h2><h1 style="text-align: center;">know</h1>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,rust,python,tensorflow,cpp,bash,debian,discord,flask,github,ai,linux,md,replit,ubuntu,vercel,vscode,windows,bots,sklearn&perline=10" />
-  </a>
-</p>
-<sub style="text-align: center;">Birds Are robots made by the NSA to spy on the population</sub><br>
-<sub style="text-align: center;">9/11 was an inside job</sub><br>
-<sub style="text-align: center;">the dow jones is controled by the deep state via blood sacrifices</sub><br>
-<sub style="text-align: center;">entertainment is a tool to pacify the masses leading to the inevitable downfall of the human species</sub>
+# Hi...
+So I don't know what to put here, but I do know how to do stuff.<br>
+Even though I keep most of my repos private I do regularly work on projects.<br>
+Most of my stuff is AI projects mainly using Tensorflow mabye Pytorch but all I really do is automate games with CV and statistics stuff.
+
+# Langs
+- Python (Fluent)
+- Rust (Fluent)
+- HTML (Fluent)
+- C++ (Familiar)
+- C (Familiar)
+- ASM (Familiar)
+- Java (Ehh)
+- JavaScript (Ehh)
+
+# Contact stuff
+- Discord (@slammon)
