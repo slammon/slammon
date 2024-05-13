@@ -27,5 +27,10 @@ Most of my stuff is AI projects mainly using Tensorflow mabye Pytorch but all I 
 - Java (Ehh)
 - JavaScript (Ehh)
 
+# Projects
+- Copperhead : Python to asm compiler
+- Biglyric (stupidname ik) : architecture for a mp3 to lyrics model
+- nothing else i really want to talk about right now although ill update it later i guess (i've done more stuff other than this)
+
 # Contact stuff
 - Discord (@slammon)
