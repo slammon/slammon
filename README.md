@@ -31,6 +31,7 @@ Most of my stuff is AI projects mainly using Tensorflow mabye Pytorch but all I 
 - Copperhead : Python to asm compiler (rust )
 - Lyra : architecture for a mp3 to lyrics model that also have line timestamps (pytorch)
 - WordleGod : ai that predicts and plays wordle (tensorflow)
+- snapscorebot : grinds out snapscore
 - nothing else i really want to talk about right now although ill update it later i guess (i've done more stuff other than this)
 
 # Contact stuff
