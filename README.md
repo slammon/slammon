@@ -10,12 +10,12 @@
                                                 \|___|/      
   <h1>I make stuff</h1>
 </pre>
-<!--i got the bubble letter idea from https://github.com/lmstudio-ai/.github/tree/main/profile -->
+<!-- i got the bubble letter idea from https://github.com/lmstudio-ai/.github/tree/main/profile -->
+<!-- i forgor where i got the bubble letters tho :( -->
 
 # Hi...
 So I don't know what to put here, but I do know how to do stuff.<br>
 Even though I keep most of my repos private I do regularly work on projects.<br>
-Most of my stuff is AI projects mainly using Tensorflow mabye Pytorch but all I really do is automate games with CV and statistics stuff.
 
 # Langs
 - Python (Fluent)
@@ -26,13 +26,23 @@ Most of my stuff is AI projects mainly using Tensorflow mabye Pytorch but all I 
 - ASM (Familiar)
 - Java (Ehh)
 - JavaScript (Ehh)
+- typescript (Ehh)
 
 # Projects
-- Copperhead : Python to asm compiler (rust )
+- Copperhead : Python to asm compiler (rust)
+- rgr file : super cool lossless file compression thing im working on (rust)
+- ThudMessage : A project I started with my young cousin to teach him front end web dev stuff (Html, css, js, py)
+- peakbot : a hypixel skyblock discord bot that can do api stuff kinda like sky helper (python)
+- freakyoverlay : a hypixel bedwars stats overlay until they changed the system making all overlays useless :( (python)
+- chess game analysis : a chess.com analysis type thing but it can also explain why your move sucked (python)
 - Lyra : architecture for a mp3 to lyrics model that also have line timestamps (pytorch)
 - WordleGod : ai that predicts and plays wordle (tensorflow)
 - snapscorebot : grinds out snapscore
-- nothing else i really want to talk about right now although ill update it later i guess (i've done more stuff other than this)
+- nothing else i really want to talk about right now although ill update it later i guess (trust me i've done more stuff other than this i just have crazy imposter syndrome or smthn)
+
+# Stuff i've contributed to
+- ```Looskie/capybara-api``` : I added capybara facts :3
+- ```monkeytypegame/monkeytype``` : fingers crossed I tried to add Fortran as a lang
 
 # Contact stuff
 - Discord (@slammon)
