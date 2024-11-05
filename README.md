@@ -8,7 +8,7 @@
    \ \__\ \__\   \ \__\   \ \__\\ _\    \ \__\   __/  / /    
     \|__|\|__|    \|__|    \|__|\|__|    \|__|| |\___/ /     
                                                 \|___|/      
-  <h1>I make stuff</h1>
+  <h2>Can't drown my demons cause they know how to swim</h2>
 </pre>
 <!-- i got the bubble letter idea from https://github.com/lmstudio-ai/.github/tree/main/profile -->
 <!-- i forgor where i got the bubble letters tho :( -->
@@ -18,31 +18,34 @@ So I don't know what to put here, but I do know how to do stuff.<br>
 Even though I keep most of my repos private I do regularly work on projects.<br>
 
 # Langs
-- Python (Fluent)
-- Rust (Fluent)
-- HTML (Fluent)
-- C++ (Familiar)
-- C (Familiar)
-- ASM (Familiar)
-- Java (Ehh)
-- JavaScript (Ehh)
-- typescript (Ehh)
+  ###### btw Fluent means i use this alot,
+  ###### Familiar means i've used it abit, 
+  ###### Ehh means i can understand it kinda
+- `Python` (Fluent)
+- `Rust` (Fluent)
+- `HTML` (Fluent)
+- `C++` (Familiar)
+- `C` (Familiar)
+- `ASM` (Familiar)
+- `Java` (Ehh)
+- `JavaScript` (Ehh)
+- `Typescript` (Ehh)
 
 # Projects
-- Copperhead : Python to asm compiler (rust)
-- rgr file : super cool lossless file compression thing im working on (rust)
-- ThudMessage : A project I started with my young cousin to teach him front end web dev stuff (Html, css, js, py)
-- peakbot : a hypixel skyblock discord bot that can do api stuff kinda like sky helper (python)
-- freakyoverlay : a hypixel bedwars stats overlay until they changed the system making all overlays useless :( (python)
-- chess game analysis : a chess.com analysis type thing but it can also explain why your move sucked (python)
-- Lyra : architecture for a mp3 to lyrics model that also have line timestamps (pytorch)
-- WordleGod : ai that predicts and plays wordle (tensorflow)
-- snapscorebot : grinds out snapscore
+- `Copperhead` : Python to asm compiler (rust)
+- `rgr file` : super cool lossless file compression thing im working on (rust)
+- `ThudMessage` : A project I started with my young cousin to teach him front end web dev stuff (Html, css, js, py)
+- `peakbot` : a hypixel skyblock discord bot that can do api stuff kinda like sky helper (python)
+- `freakyoverlay` : a hypixel bedwars stats overlay until they changed the system making all overlays useless :( (python)
+- `chess game analysis` : a chess.com analysis type thing but it can also explain why your move sucked (python)
+- `Lyra` : architecture for a mp3 to lyrics model that also have line timestamps (pytorch)
+- `WordleGod` : ai that predicts and plays wordle (tensorflow)
+- `snapscorebot` : grinds out snapscore
 - nothing else i really want to talk about right now although ill update it later i guess (trust me i've done more stuff other than this i just have crazy imposter syndrome or smthn)
 
 # Stuff i've contributed to
-- ```Looskie/capybara-api``` : I added capybara facts :3
-- ```monkeytypegame/monkeytype``` : fingers crossed I tried to add Fortran as a lang
+- `Looskie/capybara-api` : I added capybara facts :3
+- `monkeytypegame/monkeytype` : fingers crossed I tried to add Fortran as a lang
 
 # Contact stuff
 - Discord (@slammon)
