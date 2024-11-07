@@ -45,7 +45,7 @@ Even though I keep most of my repos private I do regularly work on projects.<br>
 
 # Stuff i've contributed to
 - `Looskie/capybara-api` : I added capybara facts :3
-- `monkeytypegame/monkeytype` : fingers crossed I tried to add Fortran as a lang
+- `monkeytypegame/monkeytype` : I added fortran
 
 # Contact stuff
 - Discord (@slammon)
