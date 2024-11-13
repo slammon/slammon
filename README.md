@@ -15,7 +15,7 @@
 
 # Hi...
 So I don't know what to put here, but I do know how to do stuff.<br>
-Even though I keep most of my repos private I do regularly work on projects.<br>
+Even though I keep most of my repos private I do regularly work on projects, and if I'm confident in them I'll make them public.<br>
 
 # Langs
   ###### btw Fluent means i use this alot,
@@ -34,6 +34,7 @@ Even though I keep most of my repos private I do regularly work on projects.<br>
 # Projects
 - `Copperhead` : Python to asm compiler (rust)
 - `rgr file` : super cool lossless file compression thing im working on (rust)
+- `Licustom` : my first chrome extension that allows much more contron over lichess's gui (mostly js)
 - `ThudMessage` : A project I started with my young cousin to teach him front end web dev stuff (Html, css, js, py)
 - `peakbot` : a hypixel skyblock discord bot that can do api stuff kinda like sky helper (python)
 - `freakyoverlay` : a hypixel bedwars stats overlay until they changed the system making all overlays useless :( (python)
