@@ -23,7 +23,7 @@ Even though I keep most of my repos private I do regularly work on projects, and
   ###### Ehh means i can understand it kinda
 - `Python` (Fluent)
 - `Rust` (Fluent)
-- `HTML` (Fluent)
+- `HTML5/CSS` (Fluent)
 - `C++` (Familiar)
 - `C` (Familiar)
 - `ASM` (Familiar)
