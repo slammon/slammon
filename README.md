@@ -18,9 +18,7 @@ So I don't know what to put here, but I do know how to do stuff.<br>
 Even though I keep most of my repos private I do regularly work on projects, and if I'm confident in them I'll make them public.<br>
 
 # Langs
-  ###### btw Fluent means i use this alot,
-  ###### Familiar means i've used it abit, 
-  ###### Ehh means i can understand it kinda
+###### btw Fluent means I use this a lot, Familiar means I've used it a bit, and Ehh means I can kinda understand it
 - `Python` (Fluent)
 - `Rust` (Fluent)
 - `HTML5/CSS` (Fluent)
