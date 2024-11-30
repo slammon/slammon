@@ -13,9 +13,9 @@
 <!-- i got the bubble letter idea from https://github.com/lmstudio-ai/.github/tree/main/profile -->
 <!-- i forgor where i got the bubble letters tho :( -->
 
-# Hi...
-So I don't know what to put here, but I do know how to do stuff.<br>
-Even though I keep most of my repos private I do regularly work on projects, and if I'm confident in them I'll make them public.<br>
+# Hi, I'm Airiy
+<p>So in a nutshell im a self taught programmer who has been doing this since 2019, I also don't make alot of my stuff public until I'm fully done with them, and most of my projects I get them to a functional state but then I get bored (ADHD) so I start working on something else and never finish or posish the last project and kinda just leave it which is why there are a bunch of projects listed but none are public :(</p><p> 
+I can do both frontend and backend so I'm basically fullstack but I definately prefer backend stuff because all my creativity kinda fell in a pit. Also later when I'm trying to get a job ill refine my readme and make a ton of my stuff public.</p>
 
 # Langs
 ###### btw Fluent means I use this a lot, Familiar means I've used it a bit, and Ehh means I can kinda understand it
@@ -36,10 +36,11 @@ Even though I keep most of my repos private I do regularly work on projects, and
 - `ThudMessage` : A project I started with my young cousin to teach him front end web dev stuff (Html, css, js, py)
 - `peakbot` : a hypixel skyblock discord bot that can do api stuff kinda like sky helper (python)
 - `freakyoverlay` : a hypixel bedwars stats overlay until they changed the system making all overlays useless :( (python)
-- `chess game analysis` : a chess.com analysis type thing but it can also explain why your move sucked (python)
+- `OpenCGT` : a chess.com analysis type thing but it can also explain why your move sucked aldo has aimchess features (py, html, css, js)
 - `Lyra` : architecture for a mp3 to lyrics model that also have line timestamps (pytorch)
 - `WordleGod` : ai that predicts and plays wordle (tensorflow)
 - `snapscorebot` : grinds out snapscore
+- `reploo` : collaborative web code editor like replit but hosted on a single persons machine (py, html, css, js)
 - nothing else i really want to talk about right now although ill update it later i guess (trust me i've done more stuff other than this i just have crazy imposter syndrome or smthn)
 
 # Stuff i've contributed to
