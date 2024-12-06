@@ -41,6 +41,7 @@ I can do both frontend and backend so I'm basically fullstack but I definately p
 - `WordleGod` : ai that predicts and plays wordle (tensorflow)
 - `snapscorebot` : grinds out snapscore
 - `reploo` : collaborative web code editor like replit but hosted on a single persons machine (py, html, css, js)
+- `Flowify` : Sorts spotify playlists to make smooth transitions between songs (py)
 - nothing else i really want to talk about right now although ill update it later i guess (trust me i've done more stuff other than this i just have crazy imposter syndrome or smthn)
 
 # Stuff i've contributed to
