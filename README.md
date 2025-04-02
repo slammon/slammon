@@ -8,17 +8,16 @@
    \ \__\ \__\   \ \__\   \ \__\\ _\    \ \__\   __/  / /    
     \|__|\|__|    \|__|    \|__|\|__|    \|__|| |\___/ /     
                                                 \|___|/      
-  <h2>Can't drown my demons cause they know how to swim</h2>
+  <h2>Unlike the U.S. government, I didn't "lost" $2.3 trillion before 9/11</h2>
 </pre>
 <!-- i got the bubble letter idea from https://github.com/lmstudio-ai/.github/tree/main/profile -->
-<!-- i forgor where i got the bubble letters tho :( -->
-
+<!-- i forgor where i got the actual bubble letters tho :( -->
+<!--
 # Hi, I'm Airiy
 <p>So in a nutshell im a self taught programmer who has been doing this since 2019, I also don't make alot of my stuff public until I'm fully done with them, and most of my projects I get them to a functional state but then I get bored (ADHD) so I start working on something else and never finish or polish the last project and kinda just leave it which is why there are a bunch of projects listed but none are public :(</p><p> 
 I can do both frontend and backend so I'm basically fullstack but I definately prefer backend stuff because all my creativity kinda fell in a pit. Also later when I'm trying to get a job ill refine my readme and make a ton of my stuff public.</p>
-
+-->
 # Langs
-###### btw Fluent means I use this a lot, Familiar means I've used it a bit, and Ehh means I can kinda understand it
 - `Python` (Fluent)
 - `Rust` (Fluent)
 - `HTML5/CSS` (Fluent)
@@ -43,10 +42,6 @@ I can do both frontend and backend so I'm basically fullstack but I definately p
 - `reploo` : collaborative web code editor like replit but hosted on a single persons machine (py, html, css, js)
 - `Flowify` : Sorts spotify playlists to make smooth transitions between songs (py)
 - nothing else i really want to talk about right now although ill update it later i guess (trust me i've done more stuff other than this i just have crazy imposter syndrome or smthn)
-
-# Stuff i've contributed to
-- `Looskie/capybara-api` : I added capybara facts :3
-- `monkeytypegame/monkeytype` : I added fortran
 
 # Contact stuff
 - Discord (@slammon)
