@@ -17,16 +17,18 @@
 <p>So in a nutshell im a self taught programmer who has been doing this since 2019, I also don't make alot of my stuff public until I'm fully done with them, and most of my projects I get them to a functional state but then I get bored (ADHD) so I start working on something else and never finish or polish the last project and kinda just leave it which is why there are a bunch of projects listed but none are public :(</p><p> 
 I can do both frontend and backend so I'm basically fullstack but I definately prefer backend stuff because all my creativity kinda fell in a pit. Also later when I'm trying to get a job ill refine my readme and make a ton of my stuff public.</p>
 -->
+
 # Langs
 - `Python` (Fluent)
 - `Rust` (Fluent)
 - `HTML5/CSS` (Fluent)
+- `Slayy` (Fluent)
 - `C++` (Familiar)
 - `C` (Familiar)
 - `ASM` (Familiar)
 - `Java` (Ehh)
 - `JavaScript` (Ehh)
-- `Typescript` (Ehh)
+- `TypeScript` (Ehh)
 
 # Projects
 - `Copperhead` : Python to asm compiler (rust)
