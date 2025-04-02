@@ -8,7 +8,7 @@
    \ \__\ \__\   \ \__\   \ \__\\ _\    \ \__\   __/  / /    
     \|__|\|__|    \|__|    \|__|\|__|    \|__|| |\___/ /     
                                                 \|___|/      
-  <h2>Unlike the U.S. government, I didn't "lost" $2.3 trillion before 9/11</h2>
+  <h2>Unlike the U.S. government, I didn't just "lose" $2.3 trillion before 9/11</h2>
 </pre>
 <!-- i got the bubble letter idea from https://github.com/lmstudio-ai/.github/tree/main/profile -->
 <!-- i forgor where i got the actual bubble letters tho :( -->
